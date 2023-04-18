@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "chess.ts": "^0.16.2",
+    "cm-chessboard": "^7.3.11",
+    "yarn": "^1.22.19"
+  }
+}
